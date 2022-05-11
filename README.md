@@ -20,19 +20,19 @@ Based in <b>India</b></br>
 ><h1>EXPERIENCE GAINED</h1>
 <ol>
     <li style="color:yellowgreen">
-       <b style="color:lightgreen">Company : <span style="color:lightblue" >IgonSoft</span></b> </br>
-       <b style="color:lightgreen">Months : <span style="color:lightblue">2 Months</span></b> </br>
-       <b style="color:lightgreen">Designation : <span style="color:lightblue"> Front-End-Dev</span></b> </br>
+       <b style="color:lightgreen">Company :</b> <span style="color:lightblue" >IgonSoft</span> </br>
+       <b style="color:lightgreen">Months : </b><span style="color:lightblue">2 Months</span> </br>
+       <b style="color:lightgreen">Designation : </b><span style="color:lightblue"> Front-End-Dev</span> </br>
     </li> </br>
     <li style="color:yellowgreen">
-       <b style="color:lightgreen">Company : <span style="color:lightblue" >Hoot Welfare Society</span></b> </br>
-       <b style="color:lightgreen">Months : <span style="color:lightblue">3 Months</span></b> </br>
-       <b style="color:lightgreen">Designation : <span style="color:lightblue">Graphic Designer</span></b> </br>
+       <b style="color:lightgreen">Company :</b> <span style="color:lightblue" >Hoot Welfare Society</span> </br>
+    <b style="color:lightgreen">Months : </b><span style="color:lightblue">3 Months</span> </br>
+       <b style="color:lightgreen">Designation : </b><span style="color:lightblue">Graphic Designer</span> </br>
     </li> </br>
     <li style="color:yellowgreen">
-       <b style="color:green">Company : <span style="color:lightblue">Freelancer</span></b> </br>
-       <b style="color:lightgreen">Months : <span style="color:lightblue">2 Months</span></b> </br>
-       <b style="color:lightgreen">Designation : <span style="color:lightblue"> Front-End-Dev</span></b> </br>
+       <b style="color:green">Company : </b><span style="color:lightblue">Freelancer</span> </br>
+       <b style="color:lightgreen">Months : </b><span style="color:lightblue">2 Months</span> </br>
+       <b style="color:lightgreen">Designation : </b><span style="color:lightblue"> Front-End-Dev</span> </br>
     </li></br>
 </ol>
 
