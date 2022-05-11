@@ -35,16 +35,4 @@ Based in <b>India</b></br>
        <b style="color:lightgreen">Designation : <span style="color:lightblue"> Front-End-Dev</span></b> </br>
     </li></br>
 </ol>
- 
-><h1>SOCIAL</h1>
 
-<a href="">Githublink <span>&#9787;</span></a><br>
-<a href="">Githublink <span>&#9993;</span></a><br>
-<a href="">Githublink <span>&#10084;</span></a><br>
-
-
-![facebook](https://drive.google.com/uc?export=download&id=1T_BcVan_-ctB0nF8-R6vDyKYZObJY_5n) 
-![github](https://drive.google.com/uc?export=download&id=10ZwU14SOzi5ooD83tlIRNImXlhCCmIMb)
-![linkedin](https://drive.google.com/uc?export=download&id=1eIMEJ8K9Ri50Loik1IbG1G3UNUnhUxrX)
-![twitter](https://drive.google.com/uc?export=download&id=1NKA3nBDNHT57jtXBpmtWmg-rd5Loo3CW)
-![whatsapp](https://drive.google.com/uc?export=download&id=1qQqLVmFc70k8jMNeEw_3DZdQzamDC4Fc)
