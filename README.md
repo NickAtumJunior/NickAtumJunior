@@ -4,8 +4,8 @@ I'm NithishAtum....</br>
 Based in <b>India</b></br>
 
 > <h1>SKILLSET OF MINE</h1>
- | ![javascript](https://drive.google.com/uc?export=download&id=1T7TnyZ3eurVqFUMDIvbYoThlxhiQcJ3S) |
- | ![react](https://drive.google.com/uc?export=download&id=1SZm0FLYnl5gRByS8ytM2kzUVjwx747A5)|
+ ![javascript](https://drive.google.com/uc?export=download&id=1T7TnyZ3eurVqFUMDIvbYoThlxhiQcJ3S) 
+ ![react](https://drive.google.com/uc?export=download&id=1SZm0FLYnl5gRByS8ytM2kzUVjwx747A5)
  ![angular](https://drive.google.com/uc?export=download&id=1wME24YLm1TL_dMIal7MfgRwaVkcJflLl)
  ![api](https://drive.google.com/uc?export=download&id=1J4_Dk4uSq2sfr1VsEke_g8gOwAbP3cpO)
  ![bootstrap](https://drive.google.com/uc?export=download&id=1NrvKdw2_kKi8CwpCvGSTsMQCOJRnzHP_)
