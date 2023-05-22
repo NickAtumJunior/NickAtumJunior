@@ -1,6 +1,6 @@
 > <h1>ABOUT ME</h1>
 I'm NithishAtum....</br>
-<b style="color:lightblue">Junior FullStackDev </b> <i>in FocusR....</i></br>
+<b style="color:lightblue">FullStackDev </b> <i>in FocusR....</i></br>
 Based in <b>India</b></br>
 
 > <h1>SKILLSET OF MINE</h1>
