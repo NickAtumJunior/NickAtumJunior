@@ -1,53 +1,36 @@
-> <h1>ABOUT ME</h1>
-I'm NithishAtum....</br>
-<b style="color:lightblue">FullStackDev </b> <i>in FocusR....</i></br>
-Based in <b>India</b></br>
+<h1 align="center">Hi 👋, I'm Nithish Thiruselvam</h1>
+<h3 align="center">A passionat DEVELOPER from India</h3>
 
-> <h1>SKILLSET OF MINE</h1>
- ![javascript](https://drive.google.com/uc?export=download&id=1T7TnyZ3eurVqFUMDIvbYoThlxhiQcJ3S) 
- ![react](https://drive.google.com/uc?export=download&id=1SZm0FLYnl5gRByS8ytM2kzUVjwx747A5)
- ![angular](https://drive.google.com/uc?export=download&id=1wME24YLm1TL_dMIal7MfgRwaVkcJflLl)
- ![api](https://drive.google.com/uc?export=download&id=1J4_Dk4uSq2sfr1VsEke_g8gOwAbP3cpO)
- ![bootstrap](https://drive.google.com/uc?export=download&id=1NrvKdw2_kKi8CwpCvGSTsMQCOJRnzHP_)
- ![css](https://drive.google.com/uc?export=download&id=1En6b2cEO_FaM2gtB93AL1D6NwnN6bQpA)
- ![html](https://drive.google.com/uc?export=download&id=1wbf3GqIpdbQw5N1JarMyduoBRC7ruXUI)
- ![java](https://drive.google.com/uc?export=download&id=1yJnVZcBa4yq4psB-6t7zwAaweXcM9CnA)
- ![json](https://drive.google.com/uc?export=download&id=1x51JRtVTtNdK0sRjvCjmmbmWZzvj1lzD)
- ![mysql](https://drive.google.com/uc?export=download&id=1IQOoOoOZ11B7V833GrtitgJX3wHHFC5r)
- ![nodejs](https://drive.google.com/uc?export=download&id=1QRqKQtckm3YD1wJ2NXv-JXmRouBumnYF)
- ![npm](https://drive.google.com/uc?export=download&id=1Z3yQzNrjAoEJ-IMPOWx5aCu-SgT3FM6M)
- ![python](https://drive.google.com/uc?export=download&id=1YO3-wOtRc5HG8QFuRk60BHOxAmDEZtjD)
- ![stackoverflow](https://drive.google.com/uc?export=download&id=1AH-MOCdUlh_2QadcQvUjTAS6nqh8pjgU)
- ![uiux](https://drive.google.com/uc?export=download&id=1hv1Y7WXBGlre5UvU5UIKRSJbuCVXb8fE)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickatumjunior&label=Profile%20views&color=0e75b6&style=flat" alt="nickatumjunior" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickatumjunior" alt="nickatumjunior" /></a> </p>
 
-><h1>EXPERIENCE GAINED</h1>
-<ol>
-    <li style="color:yellowgreen">
-       <b style="color:lightgreen">Company : <span style="color:lightblue" >IgonSoft</span></b> </br>
-       <b style="color:lightgreen">Months : <span style="color:lightblue">2 Months</span></b> </br>
-       <b style="color:lightgreen">Designation : <span style="color:lightblue"> Front-End-Dev</span></b> </br>
-    </li> </br>
-    <li style="color:yellowgreen">
-       <b style="color:lightgreen">Company : <span style="color:lightblue" >Hoot Welfare Society</span></b> </br>
-       <b style="color:lightgreen">Months : <span style="color:lightblue">3 Months</span></b> </br>
-       <b style="color:lightgreen">Designation : <span style="color:lightblue">Graphic Designer</span></b> </br>
-    </li> </br>
-    <li style="color:yellowgreen">
-       <b style="color:lightgreen">Company : <span style="color:lightblue">Freelancer</span></b> </br>
-       <b style="color:lightgreen">Months : <span style="color:lightblue">2 Months</span></b> </br>
-       <b style="color:lightgreen">Designation : <span style="color:lightblue"> Front-End-Dev</span></b> </br>
-    </li></br>
-</ol>
- 
-><h1>SOCIAL</h1>
+- 🔭 I’m currently working on **Atum-UI**
 
-<a href="https://www.facebook.com/nithishkumarthirucelvam">Facebook <span>&#10084;</span></a><br>
-<a href="https://www.linkedin.com/in/nithish1b4">Linkedin <span>&#10084;</span></a><br>
-<a href="https://twitter.com/NithishkumarTh2">Twitter <span>&#10084;</span></a><br>
-<a href="mailto:nithishthirucelvam007@gmail.com">Mail-Me <span>&#10084;</span></a><br>
-<a href="https://wa.me/9344150665">Whatsapp <span>&#10084;</span></a><br>
-<a href="https://www.instagram.com/in/nithishmuthya007">Instagram <span>&#10084;</span></a><br>
-<a href="https://www.youtube.com/channel/UCmJ6M4-Yp04p4vJRWcBI21g">Youtube <span>&#10084;</span></a><br>
+- 🌱 I’m currently learning **Vite**
 
+- 👯 I’m looking to collaborate on **Opensource**
 
+- 👨‍💻 All of my projects are available at [https://nickatumjunior.github.io/home/](https://nickatumjunior.github.io/home/)
+
+- 📫 How to reach me **fullstackdevnithish@gmail.com**
+
+- ⚡ Fun fact **Lone Wolf**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/nickatumjunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nickatumjunior" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickatumjunior&show_icons=true&locale=en&layout=compact" alt="nickatumjunior" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickatumjunior&show_icons=true&locale=en" alt="nickatumjunior" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickatumjunior&" alt="nickatumjunior" /></p>
